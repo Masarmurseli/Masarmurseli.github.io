@@ -360,10 +360,10 @@ align-items: center;
 
 @keyframes animate{
   0%,10%,100%{
-    width: 0
+    width: 0;
     }
     70%,90%{
-      width: 9rem;
+      width: 6.5rem;
     }
 }
 
