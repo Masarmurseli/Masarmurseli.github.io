@@ -355,7 +355,7 @@ align-items: center;
   -webkit-text-stroke: 0vw var(--first-color);
   border-right: 2px solid var(--first-color);
   overflow: hidden;
-  animation: animate 6s linear infinite;
+  animation: animate 5s linear infinite;
 }
 
 @keyframes animate{
@@ -363,7 +363,7 @@ align-items: center;
     width: 0
     }
     70%,90%{
-      width: 6.5rem;
+      width: 6rem;
     }
 }
 
