@@ -363,7 +363,7 @@ align-items: center;
     width: 0
     }
     70%,90%{
-      width: 6rem;
+      width: 6.5rem;
     }
 }
 
@@ -1154,7 +1154,7 @@ h5{
       width: 0
       }
       70%,90%{
-        width: 13rem;
+        width: 10rem;
       }
   }
 }
